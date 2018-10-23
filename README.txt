@@ -8,5 +8,6 @@ Data is inserted to tables:
   securitygroups,securitygroups_users,
   wf_module,wf_workflows,wf_statuses,wf_events
 
-Run `php demo_users_en.php` to reset demo users preferences.
+Run `php demo_users_en.php` to reset demo users preferences and password.
+You should change password to your own.
 Demo users are users with user_name LIKE 'test%'.
